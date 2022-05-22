@@ -3,3 +3,16 @@
   font-family: 'Bungee Shade', cursive;
   font-size: 5em;
 }
+
+#work-journal h1 {
+  font-family: 'Bungee Shade', cursive;
+}
+
+body .gist .gist-meta {
+  display: none;
+}
+
+.gist {
+  max-height: 400px;
+  overflow: scroll;
+}
